@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é Valéria
+- 📫 Meu email de contato é valeria.silvano@escola.pr.gov.br
+- 😄 Eu estou interessada em programar novas linguagens
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de Javascript e Scratch
